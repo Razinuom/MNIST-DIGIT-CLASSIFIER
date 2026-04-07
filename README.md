@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ## ▶️ How to Run
 
 1. Clone the repository:
-git clone https://github.com/razinuom/MNIST-DIGIT-CLASSIFIER.git  
+git clone https://github.com/Razinuom/MNIST-DIGIT-CLASSIFIER.git  
 cd digit-classifier  
 
 2. Install dependencies:
