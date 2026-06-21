@@ -23,12 +23,6 @@ A machine learning web app that predicts handwritten digits (0–9) using a neur
 
 ---
 
-## 🖼️ Demo
-
-(Add a screenshot of your app here)
-
----
-
 ## 📦 Requirements
 
 Install all dependencies with:
