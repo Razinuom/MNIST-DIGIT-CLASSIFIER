@@ -61,15 +61,6 @@ streamlit run app.py
 
 ---
 
-## 📈 Future Improvements
-
-- Add drawing canvas input  
-- Show prediction confidence  
-- Improve model accuracy  
-- Deploy the app online  
-
----
-
 ## 🙌 Acknowledgements
 
 - MNIST dataset  
