@@ -28,7 +28,8 @@ model = Sequential([
 ])
 
 model.compile(optimizer='adam',
-              loss='categorical_crossentropy')
+              loss='categorical_crossentropy',
+              metrics=['accuracy'])
 
 if not os.path.exists("digit_model.h5"):
     print("Training model...")
@@ -66,7 +67,7 @@ else:
 
         display_img = img / 255
 
-        input_img = display_img.reshape(1, img_rows * img_cols)
+        input_img = display_img.reshape(1, 28, 28, 1)
 
         prediction = model.predict(input_img)
 
