@@ -1,10 +1,10 @@
-# 🧠 Handwritten Digit Classifier
+# Handwritten Digit Classifier
 
 A machine learning web app that predicts handwritten digits (0–9) using a neural network trained on the MNIST dataset.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Upload your own digit image  
 - Real-time prediction using a trained model  
@@ -13,7 +13,7 @@ A machine learning web app that predicts handwritten digits (0–9) using a neur
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python  
 - TensorFlow / Keras  
@@ -23,7 +23,7 @@ A machine learning web app that predicts handwritten digits (0–9) using a neur
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install all dependencies with:
 
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
 git clone https://github.com/Razinuom/MNIST-DIGIT-CLASSIFIER.git  
@@ -45,7 +45,7 @@ streamlit run app.py
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 - The model is trained on the MNIST dataset of handwritten digits  
 - Images are resized to 28×28 and normalised  
@@ -54,14 +54,14 @@ streamlit run app.py
 
 ---
 
-## 📌 Notes
+## Notes
 
 - The model performs best with clear, centered digits  
 - Works with both black and white backgrounds (auto-adjusted)
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 - MNIST dataset  
 - TensorFlow & Keras  
